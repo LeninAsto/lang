@@ -19,7 +19,7 @@ haxelib install lang
 
 Or install from git:
 ```bash
-haxelib git lang https://github.com/yourusername/lang
+haxelib git lang https://github.com/LeninAsto/lang
 ```
 
 Add to your `Project.xml`:
@@ -233,4 +233,4 @@ Apache 2.0
 
 ## Credits
 
-Created for FNF Plus Engine and HaxeFlixel community.
+Created for Shadow Mario for Psych Engine.

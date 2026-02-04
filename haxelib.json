@@ -7,6 +7,6 @@
   "version": "1.0.0",
   "classPath": "src/",
   "releasenote": "Initial release with Lang core system, LangText component, translation templates (en, es, fr, pt), and comprehensive documentation",
-  "contributors": ["Lenin Asto"],
+  "contributors": ["LeninAsto"],
   "dependencies": {}
 }

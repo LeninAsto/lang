@@ -1,0 +1,12 @@
+{
+  "name": "lang",
+  "url": "https://github.com/yourusername/lang",
+  "license": "Apache-2.0",
+  "tags": ["language", "translation", "i18n", "localization", "fnf"],
+  "description": "A comprehensive language/translation library",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release",
+  "contributors": ["Lenin Asto"],
+  "dependencies": {}
+}

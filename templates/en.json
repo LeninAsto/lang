@@ -1,0 +1,49 @@
+{
+    "menu": {
+        "title": "",
+        "play": "",
+        "options": "",
+        "credits": "",
+        "exit": ""
+    },
+    "options": {
+        "graphics": "",
+        "audio": "",
+        "controls": "",
+        "language": "",
+        "back": ""
+    },
+    "gameplay": {
+        "score": "",
+        "misses": "",
+        "accuracy": "",
+        "combo": "",
+        "health": "",
+        "paused": "",
+        "resume": "",
+        "restart": "",
+        "quit": ""
+    },
+    "results": {
+        "clear": "",
+        "failed": "",
+        "rank": "",
+        "continue": ""
+    },
+    "messages": {
+        "loading": "",
+        "saving": "",
+        "error": "",
+        "success": ""
+    },
+    "common": {
+        "yes": "",
+        "no": "",
+        "ok": "",
+        "cancel": "",
+        "confirm": "",
+        "back": "",
+        "next": "",
+        "previous": ""
+    }
+}

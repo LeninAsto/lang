@@ -1,7 +1,7 @@
 {
   "name": "lang",
   "url": "https://github.com/LeninAsto/lang",
-  "license": "Apache-2.0",
+  "license": "Apache",
   "tags": ["language", "translation", "i18n", "localization", "flixel", "haxeflixel", "game"],
   "description": "Simple and efficient localization library for HaxeFlixel games with JSON-based translations, variable interpolation, automatic fallback, and hot-reload support",
   "version": "1.0.0",
